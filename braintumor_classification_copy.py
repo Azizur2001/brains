@@ -403,7 +403,10 @@ print(clr)
 
 cnn_model.save("cnn_model.h5")
 
-! pip install streamlit pyngrok python-dotenv
+import subprocess
+
+subprocess.run(["pip", "install", "streamlit", "pyngrok", "python-dotenv"])
+
 
 from threading import Thread
 from pyngrok import ngrok
