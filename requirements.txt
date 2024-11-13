@@ -1,0 +1,17 @@
+    os
+    pandas
+    numpy
+    matplotlib
+    seaborn
+    kaggle
+    scikit-learn
+    tensorflow
+    pillow
+    plotly
+    google-colab
+    google-generativeai
+    keras
+    streamlit
+    pyngrok
+    python-dotenv
+    
